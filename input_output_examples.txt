@@ -1,0 +1,23 @@
+Example Input:
+
+Enter a number: 7
+Square root: 49
+
+
+
+
+
+Enter PIN: 1234
+Withdraw Amount: 5000
+Error: Insufficient balance. Current Balance: 3000
+
+
+
+Example Input:
+
+Enroll in Course: Advanced Java
+Prerequisite: Core Java
+Status: Prerequisite not completed
+Example Output:
+
+Error: PrerequisiteNotMetException - Complete Core Java before enrolling in Advanced Java.
